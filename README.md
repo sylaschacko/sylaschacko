@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sychacko@udel.edu**
 
-- 📄 My Resume: [Link](https://drive.google.com/file/d/1uz4l6IKAdQcF7EPclaCRi0LOkZdVS8iB/view?usp=sharing)
+- 📄 My Resume: [Link](https://drive.google.com/file/d/1_LX5b0Wk10X_3SbY_y_YYuYk3wMwfG31/view?usp=sharing)
 
 
 
