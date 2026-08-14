@@ -1,12 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sylas Chacko</h1>
-<h3 align="center">A student passionate about Data Science!</h3>
-
-- 🌱 I’m currently learning **Data Structures & Algorithms**
-
-- 📫 How to reach me **sychacko@udel.edu**
-
-
-
+<h1 align="center">Hey 👋, I'm Sylas!</h1>
+<h3 align="center">An analyst passionate about Data Science!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
